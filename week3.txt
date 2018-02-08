@@ -2,4 +2,5 @@ mondaytuesday
 wednesday
 thursday
 insert on b3
-nsert on master:
+nsert on master
+insert on b3
